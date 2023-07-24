@@ -4,7 +4,7 @@ const withNextra = require("nextra")({
 });
 
 module.exports = withNextra({
-  basePath: "/nextra-test-test-test",
+  basePath: "/turn-digital.github.io/docs-website",
   images: {
     unoptimized: true,
   },
